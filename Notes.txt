@@ -1,0 +1,8 @@
+for each pixel in image
+	compare to all dots
+	if some dot is closer than current pixel
+		attract it
+	
+falling particles must XOR or save existing 
+color to avoid leaving trails
+
